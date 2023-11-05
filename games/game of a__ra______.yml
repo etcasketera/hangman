@@ -1,0 +1,27 @@
+---
+:word:
+- a
+- t
+- t
+- r
+- a
+- c
+- t
+- i
+- o
+- "n"
+- s
+:correct_guesses:
+- a
+- _
+- _
+- r
+- a
+- _
+- _
+- _
+- _
+- _
+- _
+:incorrect_guesses: []
+:guesses_left: 10
